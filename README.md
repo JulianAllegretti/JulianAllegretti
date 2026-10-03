@@ -134,5 +134,5 @@ Keycloak • OAuth2 • JWT
 **Systems Engineer**  
 Universidad Cooperativa de Colombia
 
-**Diploma in Software Architecture**
+**Diploma in Software Architecture**  
 Universidad de la Sabana
